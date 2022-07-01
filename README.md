@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sasiso88
 - 👀 I’m interested in sharing knowledge and learning on latest Microsoft tech stack
 - 🌱 I’m currently learning Azure Data Engineering and Cloud Engineering
-- 💞️ I’m looking to collaborate on ADF,Pipelines,Scala,Python,Notebook
+- 💞️ I’m looking to collaborate on Azure Synapse,ADF,Pipelines,Scala,Python,Notebook
 - 📫 How to reach me : Mail me @ sisodiya.sachin@outlook.com
 
 <!---
